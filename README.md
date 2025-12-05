@@ -1,1 +1,1 @@
-소수를 777개 곱하면?
+In romanian folklore, there is a tradition called "dubleza si da mai departe" (double it and give it to the next person). This challenge is inspired by that tradition, but with a cryptographic twist.
