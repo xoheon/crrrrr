@@ -1,3 +1,1 @@
-"Do you think you can solve this classically?"
-
-Flag format: ctf{}
+This weird program encrypted files on my gaming rig. Please help.
