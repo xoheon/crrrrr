@@ -1,1 +1,1 @@
-InfernoPAD is to help you, not to help others. GO and try to find the flag.
+when you are rusty and you don't know how to use your skills, dust yourself off and try again.
