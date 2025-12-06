@@ -1,1 +1,3 @@
-when you are rusty and you don't know how to use your skills, dust yourself off and try again.
+Jerry has some gifts for you!
+
+This is a revenge challenge of Amo's gift from Dreamhack CTF.
